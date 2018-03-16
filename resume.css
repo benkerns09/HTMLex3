@@ -1,0 +1,20 @@
+p {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    margin:10px 20px 10px 20px;
+}
+p.important {
+  font-size: 1.5em;
+}
+h1,h2 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 2em;
+    margin:10px 20px 10px 20px;
+    border:5px red solid;
+    border-width:3px;
+
+    padding:20px;
+}
+.typewriter {
+    font-family: "Courier New", Courier, monospace;
+}
